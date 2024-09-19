@@ -24,7 +24,7 @@ Cuenta con dos frameworks:
 - Es dinámico y flexible
 - Es de software libre (Open Source) y multiplataforma, se puede descargar totalmente gratis de la página oficial y ejecutarlo en diferentes sistemas operativos.
 - 100% Orientado a Objetos
-- 
+  
 # DESVENTAJAS
 - Rendimiento: Ruby es más lento que muchos otros lenguajes de programación. Su naturaleza interpretada y la flexibilidad que ofrece a menudo resultan en una ejecución más lenta en comparación con lenguajes compilados.
 – Escalabilidad: Las aplicaciones grandes pueden volverse difíciles de mantener. A medida que el tamaño y la complejidad de la aplicación crecen, puede ser un desafío mantener un código limpio y eficiente.
