@@ -8,10 +8,11 @@ Estar orientado a objetivos significa unciona con datos que el usuario creará e
 La simplicidad y la productividad son el foco de este lenguaje, por lo que aprender a programar en Ruby puede ser una gran opción para aquellos que buscan programar fácilmente
 
 # USOS COMUNES
-Permite desarrollar distintos tipos de aplicaciones, a saber: aplicaciones de servicio web, clientes de correo electrónico, procesamiento de datos y aplicaciones de red.
+$ Permite desarrollar distintos tipos de aplicaciones, a saber: aplicaciones de servicio web, clientes de correo electrónico, procesamiento de datos y aplicaciones de red.
 El lenguaje Ruby puede ser muy útil, ya que este lenguaje se puede utilizar para crear varios programas para desktop.
 
 # CARACTERISTICAS
+
 
 # EJEMPLOS DE USO
 - twitter
